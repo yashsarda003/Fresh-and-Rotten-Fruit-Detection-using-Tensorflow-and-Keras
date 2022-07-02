@@ -58,6 +58,28 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
   <img src="Images/img1.png" alt="dataset">
 </a>
 
+# Steps
+
+1.Create your own model using the colab file i.e file_name.ipynb file to create a model.
+
+2.Save your model.
+
+3.make a copy of model and paste it into h5_model folder in the django.
+
+4.make sure all the paths provided by you are correct.
+
+5.Now open terminal
+
+6.Check whether the current working directory has manage.py folder if not the try to change the directory 
+
+9.You will be given a port 
+
+7.If you are a windows user open command prompt and type => python manage.py runserver.
+
+8.If you are a linux user open terminal and type => python3 manage.py runserver.
+
+9.After running the command the django will provide a port. Copy the port number and run it in browser.
+
 ## Basic of CNN architecture for classificatio n
 <img src="Images/img5.png" alt="Basic Architecture ">
 
