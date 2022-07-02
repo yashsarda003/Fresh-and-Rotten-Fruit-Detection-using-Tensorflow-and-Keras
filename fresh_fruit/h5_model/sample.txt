@@ -1,1 +1,6 @@
-Hello!
+
+https://drive.google.com/file/d/1oFzIA8Ng86dlupL8E1uP4NpLgMwyUKUg/view?usp=sharing
+
+
+
+visit the above link to download the tar file of sample model extract the model from tar file paste it in h5_model folder here.
