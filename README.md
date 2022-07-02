@@ -60,13 +60,13 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 
 # Steps
 
-1.Create your own model using the colab file i.e file_name.ipynb file to create a model.
+1.Create your own model using the colab file i.e file_name.ipynb file to create a model OR There is a sample model in the same file to use.
 
-2.Save your model.
+2.Save your model with model_name.h5 extension.
 
-3.make a copy of model and paste it into h5_model folder in the django.
+3.Create a copy of model and paste it into h5_model folder() in the django.
 
-4.make sure all the paths provided by you are correct.
+4.Make sure all the paths provided by you are correct.
 
 5.Now open terminal
 
