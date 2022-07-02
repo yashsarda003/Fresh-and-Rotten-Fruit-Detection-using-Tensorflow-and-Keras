@@ -3,8 +3,11 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 
 # Tools and Software
 1.Python
+
 2.pandas
+
 3.Matplotlib
+
 4.Numpy
 5.Tensorflow and keras
 6.OpenCV
