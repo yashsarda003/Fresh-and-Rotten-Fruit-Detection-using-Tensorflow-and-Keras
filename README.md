@@ -13,8 +13,13 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 <img src = "Images/Screenshot from 2022-05-10 13-52-06.png">
 <img src = "Images/Screenshot from 2022-05-10 13-52-16.png">
 <img src = "Images/Screenshot from 2022-05-10 13-52-22.png">
+<img src = "Images/Screenshot from 2022-07-03 01-13-41.png">
+<br>
+
+# Final Results
 <img src = "Images/Screenshot from 2022-05-09 14-54-12.png">
 <img src = "Images/Screenshot from 2022-05-09 14-57-53.png">
+
 
 
 # Tools and Software
@@ -48,7 +53,19 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 6.Rotten Banana
 
 # Dataset link
-<a href = "https://drive.google.com/drive/folders/1X-vL022_lQv2H5GNTU1NVgR7Fkea3Pcy?usp=sharing"> 
-  <img src="Images/img1" alt="dataset">
+<p>Click on image to get the dataset. </p>
+<a href = "https://drive.google.com/drive/folders/1X-vL022_lQv2H5GNTU1NVgR7Fkea3Pcy?usp=sharing" target ="_blank"> 
+  <img src="Images/img1.png" alt="dataset">
 </a>
 
+## Basic of CNN architecture for classificatio n
+<img src="Images/img5.png" alt="Basic Architecture ">
+
+### CNN Architecture <br>
+<img src="Images/img2.png" alt="CNN Architecture">
+
+### DFD Diagram <br>
+<img src="Images/img3.png" alt="DFD Diagram">
+
+### UML(Unified Modeling Language) <br>
+<img src="Images/img4.png" alt="UML Diagram">
