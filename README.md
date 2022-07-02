@@ -9,23 +9,22 @@ Vision.
 The project works on model that detects whether a Fruit is Fresh or Rotten by using Tensorflow and keras,CNN model and Computer Vision(OpenCV).
 
 
+<img src = "Images/Screenshot from 2022-05-10 13-52-00.png">
+<img src = "Images/Screenshot from 2022-05-10 13-52-06.png">
+<img src = "Images/Screenshot from 2022-05-10 13-52-16.png">
+<img src = "Images/Screenshot from 2022-05-10 13-52-22.png">
+<img src = "Images/Screenshot from 2022-05-09 14-54-12.png">
+<img src = "Images/Screenshot from 2022-05-09 14-57-53.png">
+
 
 # Tools and Software
-1.Python
-
-2.pandas
-
-3.Matplotlib
-
-4.Numpy
-
-5.Tensorflow and keras
-
-6.OpenCV
-
-7.Jupyter Notebook
-
-8.Visual Studio Code
+  <li>pandas</li>
+  <li>Matplotlib</li>
+  <li>Numpy</li>
+  <li>Tensorflow and Keras</li>
+  <li>OpenCV</li>
+  <li>Jupyter Notebook</li>
+  <li>Visual Studio Code</li>
 
 
 # Classes
@@ -49,5 +48,7 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 6.Rotten Banana
 
 # Dataset link
-https://drive.google.com/drive/folders/1X-vL022_lQv2H5GNTU1NVgR7Fkea3Pcy?usp=sharing
+<a href = "https://drive.google.com/drive/folders/1X-vL022_lQv2H5GNTU1NVgR7Fkea3Pcy?usp=sharing"> 
+  <img src="Images/img1" alt="dataset">
+</a>
 
