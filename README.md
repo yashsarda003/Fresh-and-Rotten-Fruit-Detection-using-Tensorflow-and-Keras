@@ -86,7 +86,7 @@ The project works on model that detects whether a Fruit is Fresh or Rotten by us
 ### CNN Architecture <br>
 <img src="Images/img2.png" alt="CNN Architecture">
 
-### DFD Diagram <br>
+### Activity Diagram <br>
 <img src="Images/img3.png" alt="DFD Diagram">
 
 ### UML(Unified Modeling Language) <br>
